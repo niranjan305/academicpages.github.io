@@ -2,7 +2,7 @@
 title: "Breaking Badly: DFT-D2 Gives Sizeable Errors for Tensile Strengths in Palladium-Hydride Solids"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: '</br><img src='/images/paper2.gif>'
+excerpt: ''
 date: 2015-10-01
 venue: 'Journal of Chemical Theory and Computation'
 paperurl: 'http://niranjan305.github.io/files/paper2.pdf'
