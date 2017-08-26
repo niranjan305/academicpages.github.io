@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Ph.D. in Chemical and Environmental Engineering, University of California-Riverside , 2018
+* M.S. in Chemical Engineering, University of Louisiana-Lafayette, 2009
+* B.E. in Chemical Engineering, University of Pune, 2006
 
 Work experience
 ======
