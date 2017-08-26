@@ -6,7 +6,7 @@ excerpt: ''
 date: 2016-06-01
 venue: 'Journal of Physical Chemistry Letters'
 paperurl: 'http://niranjan305.github.io/files/paper3.pdf'
-citation: 'Sarah I. Allec, Niranjan V. Ilawe, and Bryan M. Wong. (2016). &quot;Unusual Bandgap Oscillations in Template-Directed π-Conjugated Porphyrin Nanotubes.&quot; <i>JJournal of Physical Chemistry Letters</i>. 7, 2362.'
+citation: 'Sarah I. Allec, <b>Niranjan V. Ilawe</b>, and Bryan M. Wong. (2016). &quot;Unusual Bandgap Oscillations in Template-Directed π-Conjugated Porphyrin Nanotubes.&quot; <i>JJournal of Physical Chemistry Letters</i>. 7, 2362.'
 ---
 Description
 <br/><img src='/images/paper3.gif'><br/>
