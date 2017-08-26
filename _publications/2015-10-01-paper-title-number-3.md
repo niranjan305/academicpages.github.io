@@ -10,4 +10,4 @@ citation: 'Sarah I. Allec, Niranjan V. Ilawe, and Bryan M. Wong. (2016). &quot;U
 ---
 Description
 <br/><img src='/images/paper3.gif'><br/>
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](http://niranjan305.github.io/files/paper3.pdf)
