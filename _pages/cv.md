@@ -17,25 +17,39 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2014 - current : Graduate Student Researcher 
+  * University of California, Riverside
+  * Supervisor: Dr. Bryan M. Wong
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2010 - July 2014 : Process Engineer
+  * Alkyl Amines Chemicals Ltd.
+
+* August 2007 - December 2010 : Research Assistant
+  * University of Louisiana, Lafayette
+  * Supervisor: Dr. James R. Reinhardt
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Computational Materials Science
+  * DFTB+
+  * VASP
+* Computational Chemistry
+  * Gaussian
+  * GPAW
+* Linux
+  * Shell scripting
+* Programming
+  * Python
+  * C/C++
+  * Matlab
+  * Visual Basic
+* Modeling and Simulation
+  * COMSOL
+  * Aspen Plus
+* Software Packages
+  * AutoCAD
+  * Visio
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
