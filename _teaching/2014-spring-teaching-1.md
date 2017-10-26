@@ -3,7 +3,7 @@ title: "Engineering Thermodynamics"
 collection: teaching
 type: "Course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University of California - Riverside"
+venue: "University of California, Riverside"
 date: 2016-05-01
 location: "Riverside, CA"
 ---
