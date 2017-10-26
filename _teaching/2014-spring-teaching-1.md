@@ -8,6 +8,6 @@ date: 2016-05-01
 location: "Riverside, CA"
 ---
 
-Heading 1
+Engineering Thermodynamics
 ======
 Organized 20 discussion sessions, prepared material for exams and solutions and graded assignments for course materials. Assisted students individually with homework problems 2 times a week. 
