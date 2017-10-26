@@ -30,12 +30,13 @@ Work experience
   
 Skills
 ======
-* Computational Materials Science
+* Computational Materials Science & Chemistry
   * DFTB+
   * VASP
-* Computational Chemistry
   * Gaussian
   * GPAW
+  * GAMESS
+  * CP2K
 * Linux
   * Shell scripting
 * Programming
@@ -43,12 +44,17 @@ Skills
   * C/C++
   * Matlab
   * Visual Basic
+  * VBA
 * Modeling and Simulation
   * COMSOL
   * Aspen Plus
-* Software Packages
+  * Ansys
+* Other Software Packages
   * AutoCAD
   * Visio
+  * git
+  * gdb
+  * putty
   
 Publications
 ======
