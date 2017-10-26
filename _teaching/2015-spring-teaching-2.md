@@ -1,7 +1,7 @@
 ---
-title: "Teaching experience 2"
+title: "Chemical Process Analysis"
 collection: teaching
-type: "Chemical Process Analysis"
+type: "Course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of California, Riverside"
 date: 2015-01-01
