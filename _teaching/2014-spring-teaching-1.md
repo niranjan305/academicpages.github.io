@@ -1,9 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "Engineering Thermodynamics"
 collection: teaching
-type: "Engineering Thermodynamics"
+type: "Course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University of California - Riverside, Department of Chemical Engineering"
+venue: "University of California - Riverside"
 date: 2016-05-01
 location: "Riverside, CA"
 ---
