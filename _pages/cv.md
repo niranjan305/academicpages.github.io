@@ -30,31 +30,11 @@ Work experience
   
 Skills
 ======
-* Computational Materials Science & Chemistry
-  * DFTB+
-  * VASP
-  * Gaussian
-  * GPAW
-  * GAMESS
-  * CP2K
-* Linux
-  * Shell scripting
-* Programming
-  * Python
-  * C/C++
-  * Matlab
-  * Visual Basic
-  * VBA
-* Modeling and Simulation
-  * COMSOL
-  * Aspen Plus
-  * Ansys
-* Other Software Packages
-  * AutoCAD
-  * Visio
-  * git
-  * gdb
-  * putty
+* Computational Materials Science & Chemistry : DFTB+, VASP, Gaussian, GPAW, GAMESS
+* Programming Languages : Python, C/C++, Matlab, Visual Basic, VBA
+* Modeling and Simulation Packages : COMSOL, Aspen Plus, Ansys
+* Other Software Packages : AutoCAD, Visio
+* Other Software Tools : pandas, numpy, scipy, scikit, git, gdb
   
 Publications
 ======
