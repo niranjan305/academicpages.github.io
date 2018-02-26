@@ -1,5 +1,5 @@
 ---
-title: "Modeling the Unconventional Structure of Tripeptide Oligomers in GAG Hydrogels"
+title: "Is a Cross-β-sheet Structure of Low Molecular Weight Peptides Necessary for the Formation of Fibrils and Peptide Hydrogels?"
 collection: publications
 permalink: /publication/paper9
 excerpt: ''
