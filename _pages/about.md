@@ -9,7 +9,7 @@ redirect_from:
 ---
 My name is Niranjan Ilawe. I am a 4th year Ph.D. candidate at <font color="red">UC Riverside</font> in the Department of Chemical and Environmental Engineering graduating in June of 2018. 
 
-I am interested in developing and utilizing computational tools and machine learning to study, understand and rationally design complex materials, systems and processes. I am broadly interested in the areas of light-matter interactions pertaining to,
+I am interested in developing and utilizing computational tools and machine learning algorithms to study, understand and rationally design complex materials, systems and processes. I am broadly interested in the areas of light-matter interactions pertaining to,
 
 - photovoltaics / battery systems
 - energy harvesting / storage systems
