@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Niranjan V. Ilawe"
 title_separator          : "-"
 name                     : &name "Niranjan V. Ilawe"
-description              : &description "Process Engineer | Computational Scientist"
+description              : &description "Computational Scientist | Process Engineer"
 url                      : https://niranjan305.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "niranjan305.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Niranjan V. Ilawe"
   avatar           : "niranjan.jpg"
-  bio              : "Process Engineer | Computational Scientist"
+  bio              : "Computational Scientist | Process Engineer"
   location         : "Riverside, California"
   employer         : UC, Riverside
   googlescholar    : "https://scholar.google.com/citations?user=igZI8TgAAAAJ&hl=en&oi=ao"
