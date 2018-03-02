@@ -1,1 +1,9 @@
+---
+title: "2. Miscellaneous Codes"
+excerpt: "Codes mostly for data processing<br/>"
+collection: portfolio
+---
 
+1. Plotting Absorption Spectrum
+This python code will plot the absorption spectrum of a molecule given the EXC.DAT file output from the DFTB+ 1.3 program.<br/>
+The details can be found <a href="https://github.com/niranjan305/misc-codes/tree/master/abs-spectra">here</a> website.<br/>
