@@ -21,3 +21,5 @@ I also have more than 4 years of industry experience in all aspects of process e
 I want to utilize my programming skills, engineering knowledge and research experience to solve / simplify real-world industry problems.
 
 ![Plasmonic Excitations](/images/308Na.gif)
+
+Plasmonic resonances in a sodium nanoparticle
