@@ -19,6 +19,3 @@ I am interested in developing and utilizing computational tools and machine lear
 I also have more than 4 years of industry experience in all aspects of process engineering including technology evaluation, preliminary cost analysis, process design, process optimization, erection, commissioning and project management.
 
 I want to utilize my programming skills, engineering knowledge and research experience to solve / simplify real-world industry problems.
-
-<img src='\images\308Na.gif">
-Plasmonic excitations in a sodium nanoparticle.
