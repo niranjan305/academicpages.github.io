@@ -7,16 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Niranjan Ilawe. I am a 4th year Ph.D. candidate at <font color="red">UC Riverside</font> in the Department of Chemical and Environmental Engineering graduating in June of 2018. 
+My name is Niranjan Ilawe. I work as a Product Engineer at <font color="red">Illumina Inc.</font>, helping make data driven product health and process improvement decisions. I also create statistical and data analysis tools to troubleshoot and predict product/process non-conformances.
 
-I am interested in developing and utilizing computational tools and machine learning algorithms to study, understand and rationally design complex materials, systems and processes. I am broadly interested in the areas of light-matter interactions pertaining to,
+I have a Ph.D. in Chemical and Environmental Engineering from <font color="red">UC Riverside</font> with research experience in computational chemistry and quantum physics. My thesis was titled "Probing Electronic and Optical Properties of Complex Chemical and Material Systems"
 
-- photovoltaics / battery systems
-- energy harvesting / storage systems
-- semiconductor / optical circuits
-- chemical / biological systems
-
-I also have more than 4 years of industry experience in all aspects of process engineering including technology evaluation, preliminary cost analysis, process design, process optimization, erection, commissioning and project management.
+I am interested in developing and utilizing computational tools and machine learning algorithms to study, and understand complex systems, processes and materials. I am especially interested in the genetics, biology and human-health related applications.
 
 I want to utilize my programming skills, engineering knowledge and research experience to solve / simplify real-world industry problems.
 
