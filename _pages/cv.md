@@ -17,21 +17,16 @@ Education
 
 Work experience
 ======
-* September 2014 - current : Graduate Student Researcher 
-  * University of California, Riverside
-  * Supervisor: Dr. Bryan M. Wong
+* August 2018 - current : Engineer 2 - Process Development
+  * Illumina Inc.
 
 * July 2010 - July 2014 : Process Engineer
   * Alkyl Amines Chemicals Ltd.
-
-* August 2007 - December 2010 : Research Assistant
-  * University of Louisiana, Lafayette
-  * Supervisor: Dr. James R. Reinhardt
   
 Skills
 ======
+* Programming Languages : R, Python, C/C++, Matlab, Visual Basic, VBA
 * Computational Materials Science & Chemistry : DFTB+, VASP, Gaussian, GPAW, GAMESS
-* Programming Languages : Python, C/C++, Matlab, Visual Basic, VBA
 * Modeling and Simulation Packages : COMSOL, Aspen Plus, Ansys
 * Other Software Packages : AutoCAD, Visio
 * Other Software Tools : pandas, numpy, scipy, scikit, git, gdb
